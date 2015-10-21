@@ -4,7 +4,7 @@ Bitcore Brand Guide
 ##Logo
 
 ###Primary Bitcore logo
-![Bitcore Logo]()
+![Bitcore Logo](png/bitcore-logo-horizontal-dark@2x.png)
 
 ##Bitcore
 
@@ -18,7 +18,6 @@ Bitcore is written with capital `B`. In code, `bitcore` is all lowercase.
 - × *bit core*
 
 ##Color Palette
-
 
 
 #####Hex
