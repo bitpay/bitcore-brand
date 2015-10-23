@@ -13,7 +13,7 @@ Bitcore is written with capital `B`. In code, `bitcore` is all lowercase.
 - ✓ **Bitcore**
 - ✓ **`bitcore`**
 - × *BitCore*
-- × *bitCorey*
+- × *bitCore*
 - × *bit-core*
 - × *bit core*
 
